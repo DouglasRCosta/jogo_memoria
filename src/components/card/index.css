@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    overflow: hidden;
+}
+
+.card div{
+    display: flex;
+    background-color: rgb(0, 238, 255);
+    min-width:8rem;
+    min-height: 8rem;
+    justify-content: center;
+    align-items: center;
+     border-radius: 10px;
+     margin: 15px;
+}
+.card div img{ 
+ opacity: .9;
+ min-width:8rem;
+ min-height: 8rem;
+
+
+}
